@@ -1,3 +1,0 @@
-/Users/kero/Documents/Unreal Projects/TwinStickShooter/Source/TwinStickShooter/TwinStickShooter.Build.cs
-/Users/kero/Documents/Unreal Projects/TwinStickShooter/Source/TwinStickShooter.Target.cs
-/Users/kero/Documents/Unreal Projects/TwinStickShooter/Source/TwinStickShooterEditor.Target.cs
